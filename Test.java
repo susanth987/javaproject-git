@@ -2,6 +2,6 @@ class Test
   {
     public static void main(String args[])
     {
-      System.out.println("java github jenkins")
+      System.out.println("java github jenkins");
         }
   }
